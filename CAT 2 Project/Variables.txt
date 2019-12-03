@@ -1,1 +1,0 @@
-javac --module-path "path\to\connector";"path\to\javafx" --add-modules javafx.controls *.java
